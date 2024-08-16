@@ -24,3 +24,6 @@
 ## Process
 #### 1. Don appropriate PPE, for this task that includes a dust mask, safety goggles, and gloves.
 >![screenshot of ppe](https://github.com/user-attachments/assets/f9daa26a-c387-4576-b005-bc259d37e513)
+
+> [!NOTE]
+> Failure to utilize appropriate PPE may result in eye or lung damage.
