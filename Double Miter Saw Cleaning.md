@@ -27,3 +27,5 @@
 
 > [!NOTE]
 > Failure to utilize appropriate PPE may result in eye or lung damage.
+#### 2. Power off the saw and press the emergency stop button on the front of the machine.
+>![1000024937](https://github.com/user-attachments/assets/9e093223-6420-40f9-a1e5-bb6dc0d488b1)
