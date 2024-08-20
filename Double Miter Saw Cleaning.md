@@ -37,3 +37,11 @@
 #### 3. Cut the master power to the saw by flipping the power switch on the side of the saw to the "off" position.
 >![20240611_113750](https://github.com/user-attachments/assets/d07c290e-1fe4-42ef-8b69-9b0405cb0b5f)
 
+#### 4. Open the front guard door of the saw by loosening the locking knob.
+>![1000024939](https://github.com/user-attachments/assets/31ffff6c-743f-4340-bcc1-0c156c9e74d6)
+
+#### 5.	Clear any dust from the front section of the machine using an air hose and shop vac.  Remove any large debris using an appropriate tool.  It may be necessary to remove the blades to access all parts of the saw.  Confirm the channels that lead to the dust collection tubes are clear.
+>![1000024941](https://github.com/user-attachments/assets/2fc20b9e-3c23-42d4-be06-1c11f71570c0)
+
+#### 6. Close the front guard door of the saw and lock it into position by tightening the locking knob.
+>![1000024938](https://github.com/user-attachments/assets/01c7234c-78d7-4d82-bbd1-08b535b8a8f8)
