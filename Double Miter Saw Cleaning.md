@@ -45,3 +45,27 @@
 
 #### 6. Close the front guard door of the saw and lock it into position by tightening the locking knob.
 >![1000024938](https://github.com/user-attachments/assets/01c7234c-78d7-4d82-bbd1-08b535b8a8f8)
+
+#### 7. Open the back guard door of the machine by loosening the top and bottom locking knobs.
+>![1000024949](https://github.com/user-attachments/assets/6baa4f41-fb14-4811-8495-a096f9846011)
+
+#### 8. Disconnect the main dust collector tube by removing the metal collar so the door can be opened all the way.
+>![1000024944](https://github.com/user-attachments/assets/208bf470-bd44-4318-9ea4-ef762a35129b)
+
+#### 9. Clear any dust from the back section of the machine using an air hose and shop vac.  Remove any large debris using an appropriate tool.
+>![1000024945](https://github.com/user-attachments/assets/ae26dac7-888f-4126-8b10-5921bd888fe9)
+
+#### 10. Listen for any air leaks and report damaged air hoses to maintenance.
+>![1000024947](https://github.com/user-attachments/assets/341fd1ef-302d-4566-96c8-14b849c92c4f)
+
+#### 11. If it is the first cleaning of the month rotate the grease caps one quarter turn.
+>![1000024948](https://github.com/user-attachments/assets/52cf78dd-1c54-42c8-b47b-7b3062c3ebfc)
+
+#### 12. Close the back guard door of the saw and lock it into position by tightening the locking knobs.
+>![1000024942](https://github.com/user-attachments/assets/786e4181-047c-418f-9f9f-c35ac81ba549)
+
+#### 13. Reconnect the main dust collector tube using the metal connection collar.
+>![1000024950](https://github.com/user-attachments/assets/d0dd3d75-9a01-4352-a5f2-01a9843860ef)
+
+#### 14. Empty the contents of the shop vac and waste bin into the garbage.
+>![1000024952](https://github.com/user-attachments/assets/2b271d9b-d892-4e15-bca7-800ba3ed9f05)
